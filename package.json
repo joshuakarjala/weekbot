@@ -1,0 +1,29 @@
+{
+  "name": "weekbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuakarjala/weekbot.git"
+  },
+  "keywords": [
+    "weeknumber",
+    "weeks",
+    "dates"
+  ],
+  "author": "Joshua Karjala-Svendsen <joshua@fluxuries.com> (http://twitter.com/joshuakarjala)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuakarjala/weekbot/issues"
+  },
+  "homepage": "https://github.com/joshuakarjala/weekbot#readme",
+  "dependencies": {
+    "botbuilder": "^0.9.2",
+    "moment": "^2.13.0",
+    "restify": "^4.0.4"
+  }
+}
